@@ -1,0 +1,15 @@
+img {
+	height:150px;
+}
+body{
+	background-color:violet;
+	border: 10px dotted pink;
+}
+img {
+	width: 150px;
+}
+#funkycolor {
+	color: white;
+}
+
+
